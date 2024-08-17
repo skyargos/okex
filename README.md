@@ -18,8 +18,8 @@ okex
 
 Okex V5 Golang API
 
-A complete golang wrapper for [Okex](https://www.okex.com) V5 API. Pretty simple and easy to use. For more info about
-Okex V5 API [read here](https://www.okex.com/docs-v5/en).
+A complete golang wrapper for [OKX](https://www.okx.com) V5 API. Pretty simple and easy to use. For more info about
+OKX V5 API [read here](https://www.okx.com/docs-v5/en).
 
 Installation
 -----------------
